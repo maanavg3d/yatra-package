@@ -10,3 +10,4 @@ yarg==0.1.9
 gunicorn
 Flask==1.1.2
 numpy
+sklearn
